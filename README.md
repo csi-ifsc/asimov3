@@ -2,4 +2,6 @@
 
 ## Informações ùteis
 usuário: pi
+
+
 senha:   isacasimov_csi
